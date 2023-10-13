@@ -1,0 +1,21 @@
+* {
+    font-family: "poppins", sans-serif;
+}
+
+.navbar {
+    padding: 10px 0 10px 0;
+}
+
+.hero {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.586), rgba(0, 0, 0, 0.422)), url("../assets/hero/hero-1.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+}
+
+.hero h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
